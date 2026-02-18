@@ -3,7 +3,7 @@ export default function App() {
     <>
       <section>
         <div className="container text-center">
-          <h1>CIAOOOO</h1>
+          <h1>CIAOOO</h1>
         </div>
       </section>
     </>
